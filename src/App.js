@@ -89,6 +89,7 @@ function App() {
         <button onClick = {deleteStory}>Delet Clicc</button>
       </div>
 
+      <img src="https://firebasestorage.googleapis.com/v0/b/engauge2-db691.appspot.com/o/profilePics%2FMHHM7p8KIegdrIeoe6a3oLt3uhG2?alt=media&token=d516b26e-0e6d-47f4-a803-572c99e7734a"></img>
     </div>
 
   );
